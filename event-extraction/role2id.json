@@ -1,0 +1,14 @@
+{
+    "NA": 0,
+    "temporal": 1,
+    "location": 2,
+    "agent": 3,
+    "theme": 4,
+    "beneficiary": 5,
+    "instrument": 6,
+    "source": 7,
+    "goal": 8,
+    "content": 9,
+    "force": 10,
+    "experiencer": 11
+}

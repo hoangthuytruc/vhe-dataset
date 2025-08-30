@@ -1,0 +1,35 @@
+{"event-type": "be-born", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-0", "class": "life"}
+{"event-type": "marry", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "beneficiary"}], "id": "vhe-et-1", "class": "life"}
+{"event-type": "divorce", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-2", "class": "life"}
+{"event-type": "injure", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "instrument"}, {"role": "experiencer"}], "id": "vhe-et-3", "class": "life"}
+{"event-type": "die", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "instrument"}], "id": "vhe-et-4", "class": "life"}
+{"event-type": "transport", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "instrument"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-5", "class": "movement"}
+{"event-type": "start-position", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-6", "class": "personnel"}
+{"event-type": "end-position", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-7", "class": "personnel"}
+{"event-type": "elect", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-8", "class": "personnel"}
+{"event-type": "nominate", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-9", "class": "personnel"}
+{"event-type": "arrest-jail", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-10", "class": "justice"}
+{"event-type": "release-parole", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "source"}], "id": "vhe-et-11", "class": "justice"}
+{"event-type": "trial-hearing", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-12", "class": "justice"}
+{"event-type": "charge-indict", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-13", "class": "justice"}
+{"event-type": "sue", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-14", "class": "justice"}
+{"event-type": "convict", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-15", "class": "justice"}
+{"event-type": "sentence", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-16", "class": "justice"}
+{"event-type": "fine", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-17", "class": "justice"}
+{"event-type": "execute", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-18", "class": "justice"}
+{"event-type": "extradite", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-19", "class": "justice"}
+{"event-type": "accquit", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-20", "class": "justice"}
+{"event-type": "appeal", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-21", "class": "justice"}
+{"event-type": "pardon", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-22", "class": "justice"}
+{"event-type": "transfer-ownership", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "beneficiary"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-23", "class": "transaction"}
+{"event-type": "transfer-money", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "beneficiary"}, {"role": "content"}], "id": "vhe-et-24", "class": "transaction"}
+{"event-type": "start-org", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-25", "class": "business"}
+{"event-type": "end-org", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "goal"}, {"role": "source"}], "id": "vhe-et-26", "class": "business"}
+{"event-type": "merge-org", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-27", "class": "business"}
+{"event-type": "declare-bankruptcy", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}], "id": "vhe-et-28", "class": "business"}
+{"event-type": "attack", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "instrument"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-29", "class": "conflict"}
+{"event-type": "demonstrate", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "instrument"}], "id": "vhe-et-30", "class": "conflict"}
+{"event-type": "meet", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}], "id": "vhe-et-31", "class": "contact"}
+{"event-type": "phone-write", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "agent"}, {"role": "theme"}, {"role": "content"}, {"role": "beneficiary"}], "id": "vhe-et-32", "class": "contact"}
+{"event-type": "natural-disaster", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "content"}, {"role": "source"}, {"role": "goal"}], "id": "vhe-et-33", "class": "nature"}
+{"event-type": "natural-phenomenon", "role-list": [{"role": "temporal"}, {"role": "location"}, {"role": "content"}, {"role": "force"}, {"role": "goal"}], "id": "vhe-et-34", "class": "nature"}
