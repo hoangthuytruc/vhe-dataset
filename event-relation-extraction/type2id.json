@@ -1,0 +1,13 @@
+{
+  "temporal": {
+    "NONE": 0,
+    "BEFORE": 1,
+    "OVERLAP": 2,
+    "CONTAINS": 3,
+    "SIMULTANEOUS": 4,
+    "ENDS-ON": 5,
+    "BEGINS-ON": 6
+  },
+  "causal": { "NONE": 0, "PRECONDITION": 1, "CAUSE": 2 },
+  "subevent": { "NONE": 0, "SUBEVENT": 1 }
+}
