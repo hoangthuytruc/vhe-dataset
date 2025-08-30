@@ -1,2 +1,2 @@
-# VHE: A New Dataset for Event Extraction from Vietnamese Historical Texts
-The dataset will be available after the paper is published.
+# VHE-dataset
+Dataset for PACLIC 2024 paper "VHE: A New Dataset for Event Extraction from Vietnamese Historical Texts".
